@@ -14,3 +14,12 @@
     font-family: 'Poppins', sans-serif;
     padding: 0 13px;
 }
+
+/* 
+--------------------
+    List Styles 
+--------------------
+*/
+ul > li {
+    list-style: none;
+}
